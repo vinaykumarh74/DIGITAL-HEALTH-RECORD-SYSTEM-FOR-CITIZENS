@@ -42,3 +42,4 @@ Maintain master data records
 ![image alt](https://github.com/vinaykumarh74/DHRS/blob/301ae79040742198ae1d44225ea82f073a28f399/IMG-20251206-WA0065.jpg)
 ![image alt](https://github.com/vinaykumarh74/DHRS/blob/1d0d347b10997b2ba861223a6a25094ad47c75bf/IMG-20251206-WA0066.jpg)
 ![image alt](https://github.com/vinaykumarh74/DHRS/blob/2158a94fb2cb6ccb147fc8db092eed9a3fa9fe3e/IMG-20251206-WA0062.jpg)
+![image alt](https://github.com/vinaykumarh74/DHRS/blob/fededa5a1720a373057c5b2d33a3dfd99c111777/IMG-20251206-WA0064.jpg)
